@@ -38,7 +38,9 @@ The following data cleaning and transformation steps were performed:
 - **Price in Lakhs**: Prices were assumed to be in lakhs and were multiplied by 100,000 to reflect actual values in rupees.
 - **BHK Size Extraction**: Extracted numeric values from the `Size` column (e.g., converting "2 BHK" to 2).
 
+ ![Dashboard Screenshot](dashboard.png)
+
 **Link to Dataset** https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model/input
 
- ![Dashboard Screenshot](dashboard.png)
+ 
 
