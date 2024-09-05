@@ -40,4 +40,5 @@ The following data cleaning and transformation steps were performed:
 
 **Link to Dataset** https://www.kaggle.com/code/ameythakur20/bangalore-house-price-prediction-model/input
 
- 
+ ![Dashboard Screenshot](dashboard.png)
+
